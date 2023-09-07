@@ -3252,6 +3252,8 @@ class Igm:
                 "velsurf_mag",
                 "velsurfobs_mag",
                 "divflux",
+				"ubar",
+				"vbar",
             ],
             help="List of variables to be recorded in the ncdef file",
         )

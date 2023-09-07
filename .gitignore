@@ -1,3 +1,11 @@
 src/__pycache__
 examples/aletsch-simple/notebook.ipynb
 src/igm.egg-info
+examples/ESM-rongbuk-invert/100mgrid_06-Sep-2023/observation1.nc
+examples/ESM-rongbuk-invert/100mgrid_06-Sep-2023/observation3.nc
+examples/ESM-rongbuk-invert/computational-statistics.txt
+examples/ESM-rongbuk-invert/100mgrid_05-Sep-2023/observation1.nc
+examples/ESM-rongbuk-invert/100mgrid_06-Sep-2023/observation2.nc
+examples/ESM-rongbuk-invert/100mgrid_06-Sep-2023/observation.nc
+examples/ESM-rongbuk-invert/observation.nc
+examples/ESM-rongbuk-invert/100mgrid_05-Sep-2023/observation.nc

@@ -29,7 +29,7 @@ glacier.config.opti_smooth_anisotropy_factor = 0.2   # Smooth anisotropy factor
 glacier.config.opti_usurfobs_std             = 5.0   # Tol to fit top ice surface
 glacier.config.opti_velsurfobs_std           = 3.0   # Tol to fit surface speeds
 glacier.config.opti_thkobs_std               = 5.0   # Tol to fit ice thk profiles
-glacier.config.opti_divfluxobs_std           = 1.0   # Tol to fit top ice surface
+glacier.config.opti_divfluxobs_std           = 1.0   # Tol to fit flux divergence observations
 
 # Uncomment for Optimization scheme O
 glacier.config.opti_control=['thk','strflowctrl','usurf']
